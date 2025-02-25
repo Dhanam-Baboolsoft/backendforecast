@@ -10,10 +10,10 @@ django-cors-headers==4.7.0
 django-phonenumber-field==8.0.0
 django-rest-knox==5.0.2
 djangorestframework==3.15.2
-flatbuffers==25.2.10
+flatbuffers==1.12
 gast==0.4.0
 google-auth==2.38.0
-google-auth-oauthlib==1.0.0
+google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio==1.70.0
 gunicorn==23.0.0
@@ -21,7 +21,8 @@ h5py==3.13.0
 idna==3.10
 importlib_metadata==8.6.1
 joblib==1.4.2
-keras==2.13.1
+keras==2.9.0
+Keras-Preprocessing==1.1.2
 libclang==18.1.1
 Markdown==3.7
 markdown-it-py==3.0.0
@@ -39,7 +40,7 @@ pandas==2.2.3
 patsy==1.0.1
 phonenumbers==8.13.55
 pmdarima==2.0.4
-protobuf==4.25.6
+protobuf==3.19.6
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 Pygments==2.19.1
@@ -54,10 +55,11 @@ scipy==1.13.1
 six==1.17.0
 sqlparse==0.5.3
 statsmodels==0.14.4
-tensorboard==2.13.0
-tensorboard-data-server==0.7.2
-tensorflow==2.13.0
-tensorflow-estimator==2.13.0
+tensorboard==2.9.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.9.0
+tensorflow-estimator==2.9.0
 tensorflow-intel==2.13.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.5.0
